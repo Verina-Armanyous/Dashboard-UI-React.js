@@ -6,6 +6,7 @@ User Interface, created with React, for a healthCare startup, allowing users (pa
 ![Alt Text](https://media.giphy.com/media/RJKKshzsWro3dDrNsG/giphy.gif)
 
 
+<img width="1438" alt="https://media.giphy.com/media/RJKKshzsWro3dDrNsG/giphy.gif">
 
 The UI comes in two color themes: light mode and dark mode, to satisfy different users' preferences 
 
