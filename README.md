@@ -1,4 +1,4 @@
-# Dashboard-UI with React
+# Dashboard-UI
 Created with CodeSandbox
 
 ### Description
